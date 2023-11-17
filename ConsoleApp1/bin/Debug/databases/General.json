@@ -1,0 +1,194 @@
+{
+  "name": "El precio de la historia",
+  "articlesOnSale": [
+    {
+      "name": "Candado",
+      "price": 22.2,
+      "onSale": "true",
+      "status": "Bad",
+      "category": "Various",
+      "ean": "1234567890128",
+      "stock": 18
+    },
+    {
+      "name": "Pistacho",
+      "price": 9999.9,
+      "onSale": "false",
+      "status": "Mint Condition",
+      "category": "Jewlery",
+      "ean": "2345678901234",
+      "stock": 9
+    },
+    {
+      "name": "Reloj",
+      "price": 23.56,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Antique",
+      "ean": "3456789012340",
+      "stock": 26
+    },
+    {
+      "name": "Corbata",
+      "price": 12.8,
+      "onSale": "true",
+      "status": "Bad",
+      "category": "Various",
+      "ean": "4567890123456",
+      "stock": 14
+    },
+    {
+      "name": "Bolígrafo",
+      "price": 5.99,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Various",
+      "ean": "5678901234562",
+      "stock": 20
+    },
+    {
+      "name": "Laptop",
+      "price": 799.99,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Antique",
+      "ean": "6789012345678",
+      "stock": 11
+    },
+    {
+      "name": "Libro",
+      "price": 15.5,
+      "onSale": "true",
+      "status": "Bad",
+      "category": "Antique",
+      "ean": "7890123456784",
+      "stock": 8
+    },
+    {
+      "name": "Silla",
+      "price": 49.99,
+      "onSale": "false",
+      "status": "Mediocre",
+      "category": "Various",
+      "ean": "8901234567890",
+      "stock": 4
+    },
+    {
+      "name": "Camiseta",
+      "price": 9.99,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Various",
+      "ean": "9012345678906",
+      "stock": 12
+    },
+    {
+      "name": "Mesa",
+      "price": 79.99,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Various",
+      "ean": "0123456789012",
+      "stock": 27
+    },
+    {
+      "name": "Guitarra",
+      "price": 199.99,
+      "onSale": "true",
+      "status": "Bad",
+      "category": "Jewlery",
+      "ean": "1122334455666",
+      "stock": 7
+    },
+    {
+      "name": "Taza",
+      "price": 3.49,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Various",
+      "ean": "9876543210982",
+      "stock": 19
+    },
+    {
+      "name": "Zapatos",
+      "price": 39.99,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Antique",
+      "ean": "8765432109876",
+      "stock": 25
+    },
+    {
+      "name": "Cuadro",
+      "price": 59.99,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Jewlery",
+      "ean": "7654321098760",
+      "stock": 5
+    },
+    {
+      "name": "Pelota",
+      "price": 7.99,
+      "onSale": "false",
+      "status": "Bad",
+      "category": "Antique",
+      "ean": "6543210987654",
+      "stock": 6
+    },
+    {
+      "name": "Lámpara",
+      "price": 29.99,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Various",
+      "ean": "5432109876548",
+      "stock": 15
+    },
+    {
+      "name": "Radio",
+      "price": 19.99,
+      "onSale": "true",
+      "status": "Mediocre",
+      "category": "Various",
+      "ean": "4321098765432",
+      "stock": 28
+    },
+    {
+      "name": "Teclado",
+      "price": 14.99,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Various",
+      "ean": "3210987654326",
+      "stock": 21
+    },
+    {
+      "name": "Bicicleta",
+      "price": 149.99,
+      "onSale": "true",
+      "status": "Bad",
+      "category": "Various",
+      "ean": "2109876543210",
+      "stock": 17
+    },
+    {
+      "name": "Planta",
+      "price": 9.99,
+      "onSale": "false",
+      "status": "Mediocre",
+      "category": "Antique",
+      "ean": "1357924680122",
+      "stock": 24
+    },
+    {
+      "name": "Gafas de sol",
+      "price": 29.99,
+      "onSale": "true",
+      "status": "Mint Condition",
+      "category": "Jewlery",
+      "ean": "2468013579230",
+      "stock": 10
+    }
+  ]
+}

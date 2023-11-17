@@ -1,0 +1,19 @@
+{
+  "name": "El precio de la historia",
+  "articlesOnSale": [
+    {
+      "name": "Pipipipi",
+      "price": 22.199999999999999,
+      "onSale": "Yes",
+      "status": "Mediocre",
+      "category": "Antique"
+    },
+    {
+      "name": "Popopoo",
+      "price": 992.2,
+      "onSale": "No",
+      "status": "Mediocre",
+      "category": "Antique"
+    }
+  ]
+}

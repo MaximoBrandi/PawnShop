@@ -1,0 +1,33 @@
+{
+  "name": "El precio de la historia",
+  "articlesOnSale": [
+    {
+      "name": "Candado",
+      "price": 22.199999999999999,
+      "onSale": true,
+      "status": 0,
+      "category": 2
+    },
+    {
+      "name": "Pistacho",
+      "price": 9999.8999999999996,
+      "onSale": false,
+      "status": 2,
+      "category": 1
+    },
+    {
+      "name": "Reloj",
+      "price": 23.559999999999999,
+      "onSale": true,
+      "status": 1,
+      "category": 0
+    },
+    {
+      "name": "Corbata",
+      "price": 12.800000000000001,
+      "onSale": true,
+      "status": 0,
+      "category": 2
+    }
+  ]
+}
